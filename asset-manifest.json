@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/monster-math/static/css/main.89175d84.css",
+    "main.js": "/monster-math/static/js/main.3caba540.js",
+    "static/media/maths-logo.jpg": "/monster-math/static/media/maths-logo.8dd545152a90e7d47ba5.jpg",
+    "index.html": "/monster-math/index.html",
+    "main.89175d84.css.map": "/monster-math/static/css/main.89175d84.css.map",
+    "main.3caba540.js.map": "/monster-math/static/js/main.3caba540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89175d84.css",
+    "static/js/main.3caba540.js"
+  ]
+}
